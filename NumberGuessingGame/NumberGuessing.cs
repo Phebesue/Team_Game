@@ -260,7 +260,6 @@ namespace NumberGuessingGame
                             //{
                             //    Console.ForegroundColor = ConsoleColor.DarkGray;
                             //    Console.WriteLine("Way too low..");
-
                             //}
                             //else if (numberGuess >= number - 5 && numberGuess <= number - 2)
                             //{
@@ -469,11 +468,3 @@ namespace NumberGuessingGame
         }
     }
 }
-
-
-
-
-
-
-
-
